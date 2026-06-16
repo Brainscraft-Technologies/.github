@@ -21,7 +21,7 @@
 
 </p>
 
----
+
 
 # 🚀 About Us
 
@@ -29,7 +29,7 @@ Brainscraft Technologies is a software company focused on delivering innovative 
 
 We specialize in building scalable software systems that accelerate business growth through modern technologies and intelligent automation.
 
----
+
 
 # 🌟 Our Expertise
 
@@ -97,7 +97,7 @@ We specialize in building scalable software systems that accelerate business gro
 <img src="https://skillicons.dev/icons?i=python,tensorflow"/>
 </p>
 
----
+
 
 # 🌍 Industries We Serve
 
@@ -110,7 +110,7 @@ We specialize in building scalable software systems that accelerate business gro
 - 🚗 Automotive
 - 🏢 Enterprise Solutions
 
----
+
 
 # 🚀 Why Brainscraft?
 
@@ -128,7 +128,6 @@ We specialize in building scalable software systems that accelerate business gro
 
 ✅ Long-Term Support
 
----
 
 # 📈 Our Development Process
 
@@ -156,13 +155,11 @@ Maintenance 🔧
 
 Empowering businesses through intelligent software, AI innovation, and digital transformation.
 
----
 
 # 👁 Vision
 
 To become a globally recognized technology company delivering world-class software and AI solutions.
 
----
 
 # 📞 Contact
 
