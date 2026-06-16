@@ -1,5 +1,11 @@
 
-<h1 align="center">🧠 Brainscraft Technologies</h1>
+<p align="center">
+  <img src="https://brainscraft.io/_next/static/media/logo.b1702423.svg"
+       alt="Brainscraft Technologies Logo"
+       width="220"/>
+</p>
+
+<h1 align="center">Brainscraft Technologies</h1>
 
 <h3 align="center">
 🚀 Building Intelligent Software & AI Solutions for the Future
