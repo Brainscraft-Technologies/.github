@@ -19,7 +19,6 @@
 <img src="https://img.shields.io/badge/Website-brainscraft.io-blue?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 
-<img src="https://img.shields.io/badge/Made%20In-Pakistan-success?style=for-the-badge"/>
 
 <img src="https://img.shields.io/badge/AI-Innovation-purple?style=for-the-badge"/>
 
