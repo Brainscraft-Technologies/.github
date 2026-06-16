@@ -5,8 +5,6 @@
        width="220"/>
 </p>
 
-<h1 align="center">Brainscraft Technologies</h1>
-
 <h3 align="center">
 🚀 Building Intelligent Software & AI Solutions for the Future
 </h3>
